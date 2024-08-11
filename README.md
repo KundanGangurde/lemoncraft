@@ -11,7 +11,7 @@ The marketplace lists all published assets. Users can request to buy assets, neg
 To run this project locally, use the following command in your CLI:
 
 Clone this repository:
-https:
+https: https://github.com/KundanGangurde/lemoncraft 
 
 Install dependencies:
  npm i
